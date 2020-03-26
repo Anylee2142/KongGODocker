@@ -3,11 +3,11 @@
 - https://medium.com/@vasista/explaining-kong-plugins-key-authentication-and-rate-limiting-on-flask-api-9f922c4f051
 
 ## Pre-requisite
-Docker latest.  
-Kong 2.0.2
-Cassandra 3.0
-Go 1.13.3
-MySQL 5.5
+Docker latest.    
+Kong 2.0.2         
+Cassandra 3.0       
+Go 1.13.3         
+MySQL 5.5      
      
     
 ## How to build
