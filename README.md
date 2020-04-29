@@ -5,6 +5,7 @@
 - Other components are hidden by docker-network
     - Note that the components are reachable by docker container name
     - e.g. ping gogumball etc
+- Lab#7
 
 ## Pre-requisite
 Docker latest.    
